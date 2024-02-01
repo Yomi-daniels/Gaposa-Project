@@ -128,7 +128,7 @@ body {
 
   }
 
-  .log-in-content-card h2{
+  .log-in-content-card .header-text{
     font-family: satoshi Bold;
   }
 
