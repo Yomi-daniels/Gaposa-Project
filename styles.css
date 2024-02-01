@@ -127,6 +127,11 @@ body {
     border-radius: 5px 0 0 5px;
 
   }
+
+  .log-in-content-card h2{
+    font-family: satoshi Bold;
+  }
+
   
   .logo-img-container img{
     width: 150px;
